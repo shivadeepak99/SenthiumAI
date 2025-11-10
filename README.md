@@ -1,3 +1,3 @@
 # SenthiumAI
 
-# To be uploaded on GitHub after data collection
+https://github.com/shivadeepak99/senthium-ai
